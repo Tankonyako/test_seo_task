@@ -1,0 +1,392 @@
+{
+  "url": "https://www.thestar.com/entertainment/casino/best-payout-online-casinos-in-canada/article_bfbdf7cd-a33f-4986-8442-904aacfe992b.html",
+  "google": {
+    "position": 9,
+    "url": "https://www.thestar.com/entertainment/casino/best-payout-online-casinos-in-canada/article_bfbdf7cd-a33f-4986-8442-904aacfe992b.html",
+    "domain": "thestar.com",
+    "title": "Best payout online casinos in Canada",
+    "snippet": "Which online casino has the fastest withdrawal in Canada? TonyBet is the quickest to approve a request, at around 12 hours, while Casino ..."
+  },
+  "label": {
+    "site_type": "news_media",
+    "relevant": true,
+    "profit": 0.95,
+    "brands": [
+      "Casino Days",
+      "FireVegas",
+      "888casino",
+      "LeoVegas",
+      "DAZN Bet",
+      "Tooniebet",
+      "Sports Interaction",
+      "Tonybet",
+      "Betinia",
+      "Toppz",
+      "ToonieBet",
+      "TonyBet",
+      "PlayOJO",
+      "LuckyDays"
+    ],
+    "contact": "business@thestar.ca",
+    "reason": "The Star published this advertiser-supplied Canadian casino ranking, demonstrating it sells sponsored casino placements."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Casino Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "FireVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "DAZN Bet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Tooniebet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sports Interaction",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Tonybet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Betinia",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Toppz",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "ToonieBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "TonyBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "PlayOJO",
+      "found_in": "text"
+    },
+    {
+      "brand": "LuckyDays",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "business@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "city@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "circmail@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "epaper@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "accessibility@torontostar.com",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "lettertoed@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "publiced@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "newstips@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "entertain@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "fornat@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "insight@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "life@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "oped@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "tslawnych@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    },
+    {
+      "value": "edtphotoasign@thestar.ca",
+      "type": "email",
+      "found_on": "https://www.thestar.com/site/static-pages/contact-us.html"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/media2/resources/images//proudly-canadian/proudly-canadian-owned.png?_dc=1793211218",
+      "alt": "Proudly Canadian Owned Logo"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/31c48758-8d44-11ed-8c30-0bcb8697ec11.png?resize=200%2C200",
+      "alt": "site-logo"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/89/189e4e06-c148-4905-9557-ef6d642e1b1d/6a469eb446c3b.image.jpg?resize=400%2C225",
+      "alt": "A laptop and a smartphone displaying casino games from top paying online casinos."
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/media2/resources/images/article-gifting/gift-icon.svg?_dc=1793211218",
+      "alt": "Gift this article"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/89/189e4e06-c148-4905-9557-ef6d642e1b1d/6a469eb446c3b.image.jpg?resize=400%2C225",
+      "alt": "A laptop and a smartphone displaying casino games from top paying online casinos."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/casinodays.png",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/firevegas.png",
+      "alt": "FireVegas"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/888casino.png",
+      "alt": "888casino"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/leovegas.png",
+      "alt": "LeoVegas"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/dazn-bet.png",
+      "alt": "DAZN Bet"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/tooniebet.png",
+      "alt": "Tooniebet"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/sports-interaction.png",
+      "alt": "Sports Interaction"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/tonybet.png",
+      "alt": "Tonybet"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/betinia.png",
+      "alt": "Betinia"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/toppz.png",
+      "alt": "Toppz"
+    },
+    {
+      "src": "https://www.trcktors.com/img/ico-star.png",
+      "alt": "star"
+    },
+    {
+      "src": "https://www.trcktors.com/img/casinodays-best-payout-online-casino-canada.jpg",
+      "alt": "The Casino Days homepage showcasing recommended slot games and high paying live games."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/casinodays.png",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.trcktors.com/img/firevegas-best-payout-online-casino-canada.jpg",
+      "alt": "FireVegas online casino website displaying their game catalogue."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/firevegas.png",
+      "alt": "Fire Vegas"
+    },
+    {
+      "src": "https://www.trcktors.com/img/888casino-best-payout-online-casino-canada.jpg",
+      "alt": "The 888casino homepage showcasing new and featured high paying slots."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/888casino.png",
+      "alt": "888Casino"
+    },
+    {
+      "src": "https://www.trcktors.com/img/leovegas-best-payout-online-casino-canada.jpg",
+      "alt": "The LeoVegas homepage showcasing its mobile-first casino design and featured slot titles."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/leovegas.png",
+      "alt": "LeoVegas"
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/dazn-bet-best-payout-online-casino-canada.jpg",
+      "alt": "The DAZN Bet games lobby showing its slots and table games sections."
+    },
+    {
+      "src": "https://www.trcktors.com/img/best-payout/dazn-bet.png",
+      "alt": "DAZN"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/2faeee7c-8d44-11ed-8c18-eb5483a10695.png?resize=200%2C181",
+      "alt": "site-logo"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/torstar_core/resources/images/icons/todays-paper.png?_dc=1793211221",
+      "alt": "ePaper Link"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/torstar_core/resources/images/icons/app-store.svg?_dc=1793211221",
+      "alt": "Apple App Store Logo"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/torstar_core/resources/images/icons/google-play.svg?_dc=1793211221",
+      "alt": "Google Play Store Logo"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.visa.32937c5b818e2f6145f243b6ccc36fb6.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.mastercard.3cb5b7ce700383b4bf471acc2ecf7828.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.amex.9ae30a7ced41276fe9f087fdbc2e2bea.svg",
+      "alt": "American Express"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.discover.df3351b64454849e4220183966bb80bd.svg",
+      "alt": "Discover"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.jcb.f824c86d80073c9649d3ec9ebc995f64.svg",
+      "alt": "JCB"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.diners.b2a3028ea5bece90a83cd302043a20f6.svg",
+      "alt": "Diners Club"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.creditcard.d9a15f41d5d4bd97cda40c4a67e08907.svg",
+      "alt": "Credit Card"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.creditcard.d9a15f41d5d4bd97cda40c4a67e08907.svg",
+      "alt": "Credit Card"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.amex.9ae30a7ced41276fe9f087fdbc2e2bea.svg",
+      "alt": "American Express"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.discover.df3351b64454849e4220183966bb80bd.svg",
+      "alt": "Discover"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.mastercard.3cb5b7ce700383b4bf471acc2ecf7828.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.visa.32937c5b818e2f6145f243b6ccc36fb6.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.jcb.f824c86d80073c9649d3ec9ebc995f64.svg",
+      "alt": "JCB"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.diners.b2a3028ea5bece90a83cd302043a20f6.svg",
+      "alt": "Diners Club"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.creditcard.d9a15f41d5d4bd97cda40c4a67e08907.svg",
+      "alt": "Credit Card"
+    },
+    {
+      "src": "https://bloximages.chicago2.vip.townnews.com/thestar.com/shared-content/art/tncms/templates/libraries/flex/components/subscription/resources/images/pay.creditcard.d9a15f41d5d4bd97cda40c4a67e08907.svg",
+      "alt": "Credit Card"
+    }
+  ]
+}

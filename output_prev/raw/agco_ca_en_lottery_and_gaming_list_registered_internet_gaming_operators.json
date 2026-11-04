@@ -1,0 +1,59 @@
+{
+  "url": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators",
+  "google": {
+    "position": 10,
+    "url": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators",
+    "domain": "agco.ca",
+    "title": "List of Registered Internet Gaming Operators",
+    "snippet": "A directory of all fully registered and authorized Operators and their igaming sites is available via the iGaming Ontario website . Yes or No."
+  },
+  "label": {
+    "site_type": "regulator_government",
+    "relevant": false,
+    "profit": 0,
+    "brands": [],
+    "contact": "https://www.agco.ca/en/general/contact-agco",
+    "reason": "This is an Ontario gaming regulator directory, not a site that sells casino placements."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [],
+  "contacts": [
+    {
+      "value": "https://www.agco.ca/en/alcohol/apply-affiliate-delivery-licence",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/alcohol/manage-affiliate-delivery-licence",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/general/contact-agco",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/alcohol/key-liquor-industry-contacts",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/horse-racing/race-day-contact-list",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/general/tip-sheet-updating-your-applicant-contact-information-iagco",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    },
+    {
+      "value": "https://www.agco.ca/en/about-agco",
+      "type": "contact_page",
+      "found_on": "https://www.agco.ca/en/lottery-and-gaming/list-registered-internet-gaming-operators"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://www.sportsgamblingpodcast.com/2026/09/01/fast-payout-casinos-canada-top-5-canadian-sites-offering-withdrawals-under-1-hour/",
+  "google": {
+    "position": 6,
+    "url": "https://www.sportsgamblingpodcast.com/2026/09/01/fast-payout-casinos-canada-top-5-canadian-sites-offering-withdrawals-under-1-hour/",
+    "domain": "sportsgamblingpodcast.com",
+    "title": "Fast Payout Casinos Canada: Top 5 Canadian Sites Offering Withdrawals Under 1 Hour",
+    "snippet": "Rolling Slots leads the list for fast cashouts, followed by Lucky7 for regular promotions, Slots Gallery for game variety, Boho Casino for ..."
+  },
+  "label": {
+    "site_type": "news_media",
+    "relevant": true,
+    "profit": 0.25,
+    "brands": [
+      "Rolling Slots",
+      "Lucky7",
+      "Slots Gallery",
+      "Boho Casino"
+    ],
+    "contact": null,
+    "reason": "A sports gambling media site has a Canadian casino ranking page, but the page could not be verified."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [
+    {
+      "brand": "Rolling Slots",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Lucky7",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Slots Gallery",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Boho Casino",
+      "found_in": "google snippet"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}

@@ -1,0 +1,144 @@
+{
+  "url": "https://nationalpost.com/sponsored/life-sponsored/best-interac-casinos-canada",
+  "google": {
+    "position": 3,
+    "url": "https://nationalpost.com/sponsored/life-sponsored/best-interac-casinos-canada",
+    "domain": "nationalpost.com",
+    "title": "Best Interac casinos Canada 2026",
+    "snippet": "Interac casino features over 1,900 games, Interac is the leading online casino payment method across Canada, supported by over 200 financial ..."
+  },
+  "label": {
+    "site_type": "news_media",
+    "relevant": true,
+    "profit": 0.9,
+    "brands": [
+      "Casino Days",
+      "888casino",
+      "FireVegas",
+      "ToonieBet",
+      "LeoVegas",
+      "PlayOJO",
+      "Lucky Days",
+      "Sports Interaction",
+      "TonyBet",
+      "DAZN Bet"
+    ],
+    "contact": "https://nationalpost.com/advertising/",
+    "reason": "National Post runs a clearly labeled sponsored casino ranking and provides an advertising contact."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Casino Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "FireVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "ToonieBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "PlayOJO",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Lucky Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sports Interaction",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "TonyBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "DAZN Bet",
+      "found_in": "image alt"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://nationalpost.com/advertising/",
+      "type": "contact_page",
+      "found_on": "https://nationalpost.com/sponsored/life-sponsored/best-interac-casinos-canada"
+    },
+    {
+      "value": "https://nationalpost.com/author/advertisement/",
+      "type": "contact_page",
+      "found_on": "https://nationalpost.com/sponsored/life-sponsored/best-interac-casinos-canada"
+    },
+    {
+      "value": "https://nationalpost.com/contact/",
+      "type": "contact_page",
+      "found_on": "https://nationalpost.com/sponsored/life-sponsored/best-interac-casinos-canada"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://nationalpost.com/wp-content/uploads/sites/2/2023/10/best-interac-casinos-canada.jpg?w=560&amp;h=373&amp;crop=1",
+      "alt": "Best Interac Casinos in Canada promotional graphic featuring three smartphones displaying online casinos accepting Interac."
+    },
+    {
+      "src": "https://secure.gravatar.com/avatar/?s=96&amp;d=https%3A%2F%2Fnationalpost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FNP_AuthorImage.png%3Fw%3D230&amp;r=g",
+      "alt": "Profile picture of Advertisement"
+    },
+    {
+      "src": "https://www.trcknp.com/img/casino-days-best-interac-casinos-canada.jpg",
+      "alt": "Casino Days lobby with Made for Ontario and fast withdrawal badges above recommended slots and live dealer games"
+    },
+    {
+      "src": "https://www.trcknp.com/img/888casino-best-interac-casinos-canada.jpg",
+      "alt": "888casino featured games grid with a left sidebar for slots, live casino and jackpots on the desktop site"
+    },
+    {
+      "src": "https://www.trcknp.com/img/firevegas-best-interac-casinos-canada.jpg",
+      "alt": "FireVegas casino grid showing Book of Dead, Bonanza and Big Bass Splash above a studio provider filter"
+    },
+    {
+      "src": "https://www.trcknp.com/img/tooniebet-best-interac-casinos-canada.jpg",
+      "alt": "ToonieBet live dealer rooms for roulette, blackjack and baccarat above casino category and jackpot tiles"
+    },
+    {
+      "src": "https://www.trcknp.com/img/leovegas-best-interac-casinos-canada.jpg",
+      "alt": "LeoVegas casino tab with Top Games, Slots and Table Games filters above slot and blackjack titles"
+    },
+    {
+      "src": "https://www.trcknp.com/img/playojo-best-interac-casinos-canada.jpg",
+      "alt": "PlayOJO lobby rows labelled Featured, New, Popular Near You and Jackpot, each holding slot tiles"
+    },
+    {
+      "src": "https://www.trcknp.com/img/luckydays-best-interac-casinos-canada.jpg",
+      "alt": "Lucky Days New Games grid with Super Serge, Jade Legends and Death Dominion above a Recommended row"
+    },
+    {
+      "src": "https://www.trcknp.com/img/sports-interaction-best-interac-casinos-canada.jpg",
+      "alt": "Sports Interaction casino tab showing New Games and Games of the Month rows of slot tiles"
+    },
+    {
+      "src": "https://www.trcknp.com/img/tonybet-best-interac-casinos-canada.jpg",
+      "alt": "TonyBet Trusted by Canadians banner, licensed in Ontario, above recommended slots and a bet slip panel"
+    },
+    {
+      "src": "https://www.trcknp.com/img/dazn-bet-best-interac-casinos-canada.jpg",
+      "alt": "DAZN Bet casino tab with featured slot tiles and a New games row under BetGuard and iGaming Ontario marks"
+    },
+    {
+      "src": "https://nationalpost.com/wp-content/uploads/sites/2/2026/10/NP-Masthead-Black.svg?w=489",
+      "alt": "National Post"
+    }
+  ]
+}

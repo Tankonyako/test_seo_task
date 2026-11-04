@@ -1,0 +1,65 @@
+{
+  "url": "https://ca.trustpilot.com/categories/casino",
+  "google": {
+    "position": 9,
+    "url": "https://ca.trustpilot.com/categories/casino",
+    "domain": "ca.trustpilot.com",
+    "title": "Best in Casino Canada",
+    "snippet": "Newest companies · Minebit Casino · SlotsMines · WishKing Casino · TitanPlay Casino · Pledoo · Play Purecasino · On Betmgm · Grailbet Casino."
+  },
+  "label": {
+    "site_type": "other",
+    "relevant": false,
+    "profit": 0,
+    "brands": [
+      "Minebit Casino",
+      "SlotsMines",
+      "WishKing Casino",
+      "TitanPlay Casino",
+      "Pledoo",
+      "Play Purecasino",
+      "On Betmgm",
+      "Grailbet Casino"
+    ],
+    "contact": null,
+    "reason": "Trustpilot’s casino category lists company reviews, but it is not a site that sells casino placement."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [
+    {
+      "brand": "Minebit Casino",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "SlotsMines",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "WishKing Casino",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "TitanPlay Casino",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Pledoo",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Play Purecasino",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "On Betmgm",
+      "found_in": "google snippet"
+    },
+    {
+      "brand": "Grailbet Casino",
+      "found_in": "google snippet"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}

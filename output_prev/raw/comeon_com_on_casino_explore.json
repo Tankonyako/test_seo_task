@@ -1,0 +1,44 @@
+{
+  "url": "https://www.comeon.com/on/casino/explore",
+  "google": {
+    "position": 5,
+    "url": "https://www.comeon.com/on/casino/explore",
+    "domain": "comeon.com",
+    "title": "Online Casino: Slots, Jackpots & More | ComeOn! Ontario",
+    "snippet": "Play thousands of real money slots games with only $1 minimum deposit. New games added weekly and 24/7 human support. Join ComeOn Casino Ontario today!"
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [],
+    "contact": "support.on@comeon.com",
+    "reason": "This is ComeOn’s own Ontario casino site, not a placement publisher."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [],
+  "contacts": [
+    {
+      "value": "febf2a923b6e7238b1d29fd39026a96a@o4508040558018560.ingest.de.sentry.io",
+      "type": "email",
+      "found_on": "https://www.comeon.com/on/casino/explore"
+    },
+    {
+      "value": "https://t.me/comeonsports",
+      "type": "telegram",
+      "found_on": "https://www.comeon.com/on/casino/explore"
+    },
+    {
+      "value": "support.on@comeon.com",
+      "type": "email",
+      "found_on": "https://www.comeon.com/on/casino/explore"
+    },
+    {
+      "value": "https://www.comeon.com/on/about",
+      "type": "contact_page",
+      "found_on": "https://www.comeon.com/on/casino/explore"
+    }
+  ],
+  "images": []
+}

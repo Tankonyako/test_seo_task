@@ -1,0 +1,73 @@
+{
+  "url": "http://www.igamingontario.ca/en",
+  "google": {
+    "position": 1,
+    "url": "http://www.igamingontario.ca/en",
+    "domain": "igamingontario.ca",
+    "title": "iGaming Ontario",
+    "snippet": "Make the safer choice and play on sites offered by fully registered and approved Operators in Ontario · Join the future of igaming in Ontario."
+  },
+  "label": {
+    "site_type": "regulator_government",
+    "relevant": false,
+    "profit": 0,
+    "brands": [],
+    "contact": "media@igamingontario.ca",
+    "reason": "iGaming Ontario is a government-regulated market body, not a site that sells casino placements."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [],
+  "contacts": [
+    {
+      "value": "media@igamingontario.ca",
+      "type": "email",
+      "found_on": "http://www.igamingontario.ca/en/contact-us"
+    },
+    {
+      "value": "igaming@igamingontario.ca",
+      "type": "email",
+      "found_on": "http://www.igamingontario.ca/en/contact-us"
+    },
+    {
+      "value": "http://www.igamingontario.ca/en/contact-us",
+      "type": "contact_page",
+      "found_on": "http://www.igamingontario.ca/en"
+    },
+    {
+      "value": "http://www.igamingontario.ca/en/about-igaming-ontario",
+      "type": "contact_page",
+      "found_on": "http://www.igamingontario.ca/en"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://www.igamingontario.ca/themes/custom/de_theme/logo-en.svg",
+      "alt": "Home"
+    },
+    {
+      "src": "http://www.igamingontario.ca/themes/custom/de_theme/src/img/print/logo--print-en.png",
+      "alt": "Print logo"
+    },
+    {
+      "src": "http://www.igamingontario.ca/sites/default/files/styles/1_scale_large/public/images/L_BETGUARD_Tagline_reverse_E_RGB.png?itok=TfFsb0bk",
+      "alt": "BetGuard reverse"
+    },
+    {
+      "src": "http://www.igamingontario.ca/sites/default/files/images/instagram-icon-colour_0.png",
+      "alt": "Instagram"
+    },
+    {
+      "src": "http://www.igamingontario.ca/sites/default/files/images/twitter-x-logo-white-35x35px.png",
+      "alt": "Twitter"
+    },
+    {
+      "src": "http://www.igamingontario.ca/sites/default/files/images/linkedin-icon-35x35.png",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "http://www.igamingontario.ca/sites/default/files/images/facebook_icon_35x35.png",
+      "alt": "Facebook"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.leovegas.com/en-ca",
+  "google": {
+    "position": 6,
+    "url": "https://www.leovegas.com/en-ca",
+    "domain": "leovegas.com",
+    "title": "Online Casino Canada | $1500 + 100FS Bonus",
+    "snippet": "New to LeoVegas? Your first three deposits each come with a 100% match up to $500 - up to $1,500 in total - plus 100 Free Spins spread across the three."
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [
+      "LeoVegas"
+    ],
+    "contact": null,
+    "reason": "LeoVegas is an online casino operator where players can sign up and play."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "LeoVegas",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.playnow.com/casino/",
+  "google": {
+    "position": 6,
+    "url": "https://www.playnow.com/casino/",
+    "domain": "playnow.com",
+    "title": "BC Online Casino - Slots, Blackjack & Roulette",
+    "snippet": "The only legal online casino in British Columbia. Slots, blackjack, roulette, poker and more at PlayNow, with guaranteed payouts."
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [],
+    "contact": "https://www.playnow.com/about-playnow/contact.html",
+    "reason": "PlayNow is a provincially operated online casino where players sign up and play, not a placement partner."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [],
+  "contacts": [
+    {
+      "value": "https://www.playnow.com/about-playnow/contact.html",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    },
+    {
+      "value": "https://www.playnow.com/about-playnow/help.html",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    },
+    {
+      "value": "https://www.playnow.com/about-playnow/",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    },
+    {
+      "value": "https://www.playnow.com/about-playnow/account-security.html",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    },
+    {
+      "value": "https://www.playnow.com/about-playnow/privacy.html",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    },
+    {
+      "value": "https://www.playnow.com/about-playnow/legal.html",
+      "type": "contact_page",
+      "found_on": "https://www.playnow.com/casino/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.playnow.com/resources/images/_generated/a56c16ee6cb8ab418bf6.svg?v=1",
+      "alt": "sports-new"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "American Express logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Mastercard logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Visa logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Interac online logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Paypal logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Online bill payment logo"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/icons/external-link-icon.svg?v=1",
+      "alt": "external link"
+    },
+    {
+      "src": "https://www.playnow.com/resources/images/llp.png?v=1",
+      "alt": "Gamesense Image"
+    }
+  ]
+}

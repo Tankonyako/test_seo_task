@@ -1,0 +1,91 @@
+{
+  "url": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/",
+  "google": {
+    "position": 10,
+    "url": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/",
+    "domain": "moviemaker.com",
+    "title": "Best Canadian Online Casinos - Top Real Money Casinos for CA Players (Instant Payouts)",
+    "snippet": "Rolling Slots, Lucky7, Slots Gallery, Boho Casino and BitStarz present different approaches to real-money casino gaming."
+  },
+  "label": {
+    "site_type": "news_media",
+    "relevant": true,
+    "profit": 0.65,
+    "brands": [
+      "Rolling Slots",
+      "Lucky7",
+      "Slots Gallery",
+      "Boho Casino",
+      "BitStarz"
+    ],
+    "contact": "deirdre@moviemaker.com",
+    "reason": "MovieMaker publishes a casino ranking with multiple brand placements and provides an advertising contact."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Rolling Slots",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky7",
+      "found_in": "text"
+    },
+    {
+      "brand": "Slots Gallery",
+      "found_in": "text"
+    },
+    {
+      "brand": "Boho Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "BitStarz",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "deirdre@moviemaker.com",
+      "type": "email",
+      "found_on": "https://www.moviemaker.com/moviemaker-advertising/"
+    },
+    {
+      "value": "assistant@moviemaker.com",
+      "type": "email",
+      "found_on": "https://www.moviemaker.com/contact/"
+    },
+    {
+      "value": "moviemaker@sfsdayton.com",
+      "type": "email",
+      "found_on": "https://www.moviemaker.com/contact/"
+    },
+    {
+      "value": "https://www.moviemaker.com/moviemaker-advertising/",
+      "type": "contact_page",
+      "found_on": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/"
+    },
+    {
+      "value": "https://www.moviemaker.com/contact/",
+      "type": "contact_page",
+      "found_on": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/"
+    },
+    {
+      "value": "https://www.moviemaker.com/about/",
+      "type": "contact_page",
+      "found_on": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/"
+    },
+    {
+      "value": "https://www.moviemaker.com/about/privacy-policy/",
+      "type": "contact_page",
+      "found_on": "https://www.moviemaker.com/best-canadian-online-casinos-top-real-money-casinos-for-ca-players-instant-payouts/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.moviemaker.com/cdn-cgi/image/width=166%2Cheight=60%2Cfit=crop%2Cquality=65%2Cgravity=auto%2Cmetadata=none%2Cformat=auto%2Conerror=redirect/wp-content/uploads/2023/01/mm_site_logo-2.svg",
+      "alt": "MovieMaker Magazine"
+    }
+  ]
+}

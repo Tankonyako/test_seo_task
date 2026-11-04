@@ -1,0 +1,41 @@
+{
+  "url": "https://www.casino.org/canada/payment/fastest-withdrawals/",
+  "google": {
+    "position": 3,
+    "url": "https://www.casino.org/canada/payment/fastest-withdrawals/",
+    "domain": "casino.org",
+    "title": "Fast Withdrawal Casinos Canada 2026 | Instant Payouts ⚡",
+    "snippet": "Cash out in seconds at Canadian sites like RocketPlay. Get instant or same-day withdrawals at the top 10 quick payout casinos."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.35,
+    "brands": [
+      "RocketPlay"
+    ],
+    "contact": "https://www.casino.org/contact",
+    "reason": "The page appears to be a Canadian casino payout ranking that could sell placements, but it could not be accessed."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [
+    {
+      "brand": "RocketPlay",
+      "found_in": "google snippet"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "1fa513e093d04bd6b7fdb29f92a7e5fb@o542129.ingest.sentry.io",
+      "type": "email",
+      "found_on": "https://www.casino.org/contact"
+    },
+    {
+      "value": "https://www.casino.org/contact",
+      "type": "contact_page",
+      "found_on": "https://www.casino.org/contact"
+    }
+  ],
+  "images": []
+}

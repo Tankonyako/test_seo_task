@@ -1,0 +1,10 @@
+name: serp-placement
+
+services:
+  app:
+    build: .
+    env_file: .env
+    volumes:
+      # output (json + csv = the data) stays on the host between runs, config.json can be edited without a rebuild
+      - ./output:/app/output
+      - ./config.json:/app/config.json:ro

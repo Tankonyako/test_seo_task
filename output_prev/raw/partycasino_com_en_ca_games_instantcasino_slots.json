@@ -1,0 +1,35 @@
+{
+  "url": "https://www.partycasino.com/en-ca/games/instantcasino/slots",
+  "google": {
+    "position": 3,
+    "url": "https://www.partycasino.com/en-ca/games/instantcasino/slots",
+    "domain": "partycasino.com",
+    "title": "Play Online Slots Canada",
+    "snippet": "Play online slots at PartyCasino. Try out 1000+ slot games and exclusive slots including free to play options. Fast casino deposits and instant play."
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [
+      "PartyCasino"
+    ],
+    "contact": null,
+    "reason": "PartyCasino is an online casino where players can sign up and play, not a placement publisher."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "PartyCasino",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [],
+  "images": [
+    {
+      "src": "https://scmedia.partycasino.com/$-$/8f9ed23b384a45c59f8cfdb7d5023661.svg",
+      "alt": "logo"
+    }
+  ]
+}

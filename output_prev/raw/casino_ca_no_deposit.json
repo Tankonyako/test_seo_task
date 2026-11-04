@@ -1,0 +1,34 @@
+{
+  "url": "https://www.casino.ca/no-deposit/",
+  "google": {
+    "position": 6,
+    "url": "https://www.casino.ca/no-deposit/",
+    "domain": "casino.ca",
+    "title": "No Deposit Bonus Casinos Canada 2026 - Claim 100 FS",
+    "snippet": "Get the best no deposit bonuses at Canadian casinos for 2026. Claim bonus funds or free spins simply for registering at top online casinos ..."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.3,
+    "brands": [],
+    "contact": "contact@casino.ca",
+    "reason": "This is a Canadian no-deposit casino bonus listing, but the page could not be verified."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [],
+  "contacts": [
+    {
+      "value": "contact@casino.ca",
+      "type": "email",
+      "found_on": "https://www.casino.ca/contact"
+    },
+    {
+      "value": "https://www.casino.ca/contact",
+      "type": "contact_page",
+      "found_on": "https://www.casino.ca/contact"
+    }
+  ],
+  "images": []
+}

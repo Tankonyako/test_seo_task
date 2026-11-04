@@ -1,0 +1,30 @@
+{
+  "url": "https://www.betmgm.ca/en/casino",
+  "google": {
+    "position": 4,
+    "url": "https://www.betmgm.ca/en/casino",
+    "domain": "betmgm.ca",
+    "title": "Play the Most Exciting Online Casino Games",
+    "snippet": "Interested in the best online gambling in Canada? Take a look at all the exciting online casino games we have to offer at BetMGM and register to play."
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [
+      "BetMGM"
+    ],
+    "contact": null,
+    "reason": "BetMGM is an online casino operator, not a placement partner."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "BetMGM",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}

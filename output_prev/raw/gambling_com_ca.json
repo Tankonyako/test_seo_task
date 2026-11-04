@@ -1,0 +1,532 @@
+{
+  "url": "https://www.gambling.com/ca",
+  "google": {
+    "position": 10,
+    "url": "https://www.gambling.com/ca",
+    "domain": "gambling.com",
+    "title": "Online Gambling Canada | Best Gambling Sites 2026",
+    "snippet": "Gambling.com compares Canada's best online gambling sites and games. Get independent reviews, our expert guides, and access to exclusive sign-up offers."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.95,
+    "brands": [
+      "PartyCasino",
+      "888 Casino",
+      "Duelz Casino",
+      "Betway Casino",
+      "PowerPlay Casino",
+      "Bet365 Casino",
+      "LeoVegas Sports",
+      "888 Sports",
+      "BetMGM Sports",
+      "Jackpot City Casino",
+      "Party Casino"
+    ],
+    "contact": "newsdesk@gambling.com",
+    "reason": "A prominent Canadian casino affiliate site with rankings of multiple operators and strong placement potential."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "PartyCasino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888 Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Duelz Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Betway Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "PowerPlay Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Bet365 Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LeoVegas Sports",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888 Sports",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "BetMGM Sports",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Jackpot City Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Party Casino",
+      "found_in": "image alt"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "newsdesk@gambling.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/about-us"
+    },
+    {
+      "value": "example@gmail.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/ca"
+    },
+    {
+      "value": "dean.ryan@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/ca"
+    },
+    {
+      "value": "tim.williams@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/ca"
+    },
+    {
+      "value": "kevin.taylor@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/ca"
+    },
+    {
+      "value": "femke.keunen@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/about-us"
+    },
+    {
+      "value": "anne-karine.solberg@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/about-us"
+    },
+    {
+      "value": "j.scheible@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/about-us"
+    },
+    {
+      "value": "shaun.cronin@gdcgroup.com",
+      "type": "email",
+      "found_on": "https://www.gambling.com/about-us"
+    },
+    {
+      "value": "https://www.gambling.com/about-us",
+      "type": "contact_page",
+      "found_on": "https://www.gambling.com/ca"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/105962/81b59cc784.svg",
+      "alt": "Gambling.com"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/139743/7c923179ab.svg",
+      "alt": "GDC - Icon - Grey - Close Circle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/133832/dc78f85d36.svg",
+      "alt": "GDC - Homepage - Select Country - Black"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/139697/4f96f7f56a.svg",
+      "alt": "Search icon"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=50,h=50,format=webp/https://objects.kaxmedia.com/auto/o/237231/21722615a0.svg",
+      "alt": "Online Casino"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=50,h=50,format=webp/https://objects.kaxmedia.com/auto/o/237232/260d754adf.svg",
+      "alt": "Sports Betting"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=50,h=50,format=webp/https://objects.kaxmedia.com/auto/o/241652/d4131e4d5e.svg",
+      "alt": "Online Slots"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=50,h=50,format=webp/https://objects.kaxmedia.com/auto/o/237215/e2c898f05a.svg",
+      "alt": "Online Poker"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285659/4fee9e947c.svg",
+      "alt": "Forbes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285655/32aea82837.svg",
+      "alt": "The Washington Post"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285657/e70063e06f.svg",
+      "alt": "Bloomberg"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285656/48ec94ec46.svg",
+      "alt": "BBC"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285654/d24889e98e.svg",
+      "alt": "THE WALL STREET JOURNAL"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285658/09d8ebf875.svg",
+      "alt": "CNN"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/259297/f2f93caf97.png",
+      "alt": "THE TIMES"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285537/aa978feeee.webp",
+      "alt": "Cosmo Spins"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285538/78701db28a.png",
+      "alt": "Free Play Slots"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285536/ca33cd778b.png",
+      "alt": "BetBuilderAI"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/285834/22888d2b4f.png",
+      "alt": "Slot Tournaments"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,format=webp/https://objects.kaxmedia.com/genesis/laptop-slot-game.webp?v=18ed0c5aa06d12a039cb4f630e54fae103965923",
+      "alt": "Ontario iGaming Revenue Rises 26% To C$416.3 Million In September"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,format=webp/https://objects.kaxmedia.com/genesis/play-earn-buy-what-you-want.png?v=2277b876175885844e5424ceebe5c417740795d3",
+      "alt": "Gambling.com Rewards Are Getting A Store"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,format=webp/https://objects.kaxmedia.com/genesis/niagara-fallsview.png?v=1c1710880b38fc0da5aead6f3cfef4012ad015b0",
+      "alt": "Ontario And OLG Open Niagara Casino Bids With $3B Investment Call"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,format=webp/https://objects.kaxmedia.com/genesis/alberta-premier-says-gambling-ad-rules-may-change.webp?v=35b348b2bda5fd6c6141d0704b3ddc49f60b5f4c",
+      "alt": "Alberta Gambling Ad Rules May Change, Premier Says"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,format=webp/https://objects.kaxmedia.com/genesis/canada-mps-vote-on-sports-betting-ad-bill.webp?v=c97873c1f41a59854648d910bbe64acca3d2bae5",
+      "alt": "Canada MPs Vote On Sports Betting Ad Bill S-211"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=362,h=365,format=webp/https://objects.kaxmedia.com/auto/o/289035/72e25eaa44.png",
+      "alt": "present gift box"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/217120/3e84ed3e98.png",
+      "alt": "PartyCasino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/215240/cdca9aee5b.png",
+      "alt": "888 Casino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/215304/20d71fb1ce.png",
+      "alt": "Duelz Casino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/215240/cdca9aee5b.png",
+      "alt": "888 Casino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/248297/c0c9ba2e03.png",
+      "alt": "Betway Casino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/217120/3e84ed3e98.png",
+      "alt": "PartyCasino"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/215240/cdca9aee5b.png",
+      "alt": "888 Casino"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/82560/873fe9afcf.png",
+      "alt": "PowerPlay Casino"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/283677/6751b03a2c.png",
+      "alt": "Bet365 Casino"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/18203/0a9c8bc06d.png",
+      "alt": "LeoVegas Sports"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/18204/efaa8d28c5.png",
+      "alt": "888 Sports"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/h=100,w=150,fit=pad,format=auto/https://objects.kaxmedia.com/auto/o/253594/615e175813.png",
+      "alt": "BetMGM Sports"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/129749/be0a0303ab.svg",
+      "alt": "Tooltip"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,h=238,format=webp/https://objects.kaxmedia.com/auto/o/90318/18779a9ff9.png",
+      "alt": "Interac Casinos"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=30,h=30,format=auto,fit=cover/https://objects.kaxmedia.com/auto/o/287302/a76f5dbda9.png?v=916d93ec115beac41d2e7a68cdaca8132b2ff612",
+      "alt": "Author Image"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,h=238,format=webp/https://objects.kaxmedia.com/auto/o/34065/1bcc1ea9a3.png",
+      "alt": "Neteller Casinos"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=30,h=30,format=auto,fit=cover/https://objects.kaxmedia.com/auto/o/287302/a76f5dbda9.png?v=916d93ec115beac41d2e7a68cdaca8132b2ff612",
+      "alt": "Author Image"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,h=238,format=webp/https://objects.kaxmedia.com/auto/o/34069/dabce048ae.png",
+      "alt": "Skrill Casinos"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=30,h=30,format=auto,fit=cover/https://objects.kaxmedia.com/auto/o/287302/a76f5dbda9.png?v=916d93ec115beac41d2e7a68cdaca8132b2ff612",
+      "alt": "Author Image"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,h=238,format=webp/https://objects.kaxmedia.com/auto/o/218246/87fbf85231.png",
+      "alt": "PaysafeCard Casinos"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=30,h=30,format=auto,fit=cover/https://objects.kaxmedia.com/auto/o/287302/a76f5dbda9.png?v=916d93ec115beac41d2e7a68cdaca8132b2ff612",
+      "alt": "Author Image"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=420,h=238,format=webp/https://objects.kaxmedia.com/auto/o/34067/f72d5e3212.png",
+      "alt": "PayPal Casinos"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=30,h=30,format=auto,fit=cover/https://objects.kaxmedia.com/auto/o/287302/a76f5dbda9.png?v=916d93ec115beac41d2e7a68cdaca8132b2ff612",
+      "alt": "Author Image"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=32,h=32,format=webp/https://objects.kaxmedia.com/auto/o/163105/6d2bef2635.svg",
+      "alt": "twitter"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=32,h=32,format=webp/https://objects.kaxmedia.com/auto/o/207713/dd9365d09a.svg",
+      "alt": "youtube"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=32,h=32,format=webp/https://objects.kaxmedia.com/auto/o/163103/abf741e7a2.svg",
+      "alt": "facebook"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=32,h=32,format=webp/https://objects.kaxmedia.com/auto/o/163104/3ccb615a01.svg",
+      "alt": "instagram"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=32,h=32,format=webp/https://objects.kaxmedia.com/auto/o/207712/fdc1e4a62c.svg",
+      "alt": "tiktok"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31168/01797ff082.svg",
+      "alt": "United Kingdom"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31174/6503ffd2da.svg",
+      "alt": "Australia"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/105838/0e088ffbc2.svg",
+      "alt": "Austria"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/150621/315f92da18.svg",
+      "alt": "Belgium"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/228906/482ba03dde.svg",
+      "alt": "Belgium"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31173/1dfb1fd413.svg",
+      "alt": "Canada"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/164919/1c81e47a86.svg",
+      "alt": "Canada"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/39797/55038f4a0d.png",
+      "alt": "Denmark"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31180/50ebfcf79b.svg",
+      "alt": "Germany"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/105836/eba59012f6.svg",
+      "alt": "Greece"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/274011/f0eb4d0d41.svg",
+      "alt": "Iceland"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/274229/f8686be126.svg",
+      "alt": "Iceland"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/105839/07a23616c1.svg",
+      "alt": "India"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31172/289a7c5659.svg",
+      "alt": "Ireland"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31184/7a0dc044a9.svg",
+      "alt": "Italy"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/150612/d42de529e8.svg",
+      "alt": "Mexico"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/105837/99d1fe9eb5.svg",
+      "alt": "Netherlands"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31177/3dabbb82ad.svg",
+      "alt": "New Zealand"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31182/98b205880f.svg",
+      "alt": "Norway"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/150699/e134106936.svg",
+      "alt": "Peru"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/150700/24bb1aa999.svg",
+      "alt": "Romania"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/150623/68490408ba.svg",
+      "alt": "Spain"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31183/98165493bc.svg",
+      "alt": "Sweden"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=29,h=29,format=webp/https://objects.kaxmedia.com/auto/o/31206/1d224877ce.svg",
+      "alt": "United States"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=160,h=32,format=webp/https://objects.kaxmedia.com/auto/o/163114/0b705b9686.svg",
+      "alt": "iGaming Ontario"
+    },
+    {
+      "src": "https://www.gambling.com/cdn-cgi/image/w=160,h=22,format=webp/https://objects.kaxmedia.com/auto/o/209377/e0932ff1ed.svg",
+      "alt": "GambleAware"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/163107/d5c2d9f388.svg",
+      "alt": "+19"
+    }
+  ]
+}

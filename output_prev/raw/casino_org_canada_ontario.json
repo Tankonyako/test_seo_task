@@ -1,0 +1,34 @@
+{
+  "url": "https://www.casino.org/canada/ontario/",
+  "google": {
+    "position": 3,
+    "url": "https://www.casino.org/canada/ontario/",
+    "domain": "casino.org",
+    "title": "Top Ontario Online Casinos in 2026 | Compare 70+ Sites 🏅",
+    "snippet": "Our experts tested 70+ casino sites and apps. Discover picks with 5,900+ real-money games, payouts of up to 98.71%, and safe, same-day withdrawals."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.3,
+    "brands": [],
+    "contact": "https://www.casino.org/contact",
+    "reason": "Casino.org compares Ontario online casinos, but the page could not be verified because it returned HTTP 403."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [],
+  "contacts": [
+    {
+      "value": "1fa513e093d04bd6b7fdb29f92a7e5fb@o542129.ingest.sentry.io",
+      "type": "email",
+      "found_on": "https://www.casino.org/contact"
+    },
+    {
+      "value": "https://www.casino.org/contact",
+      "type": "contact_page",
+      "found_on": "https://www.casino.org/contact"
+    }
+  ],
+  "images": []
+}

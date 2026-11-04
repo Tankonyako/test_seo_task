@@ -1,0 +1,25 @@
+{
+    "topN": 10,
+    "regions": [
+        {
+            "id": "ca",
+            "googleDomain": "google.ca",
+            "gl": "ca",
+            "hl": "en",
+            "location": "Canada",
+            "device": "mobile"
+        }
+    ],
+    "keywords": [
+        { "keyword": "online casino canada", "cluster": "money" },
+        { "keyword": "real money online casino canada", "cluster": "money" },
+        { "keyword": "best online casino canada", "cluster": "ratings" },
+        { "keyword": "top 10 online casinos canada", "cluster": "ratings" },
+        { "keyword": "new online casinos canada", "cluster": "ratings" },
+        { "keyword": "interac casino", "cluster": "payments" },
+        { "keyword": "fast payout casino canada", "cluster": "payments" },
+        { "keyword": "no deposit bonus canada", "cluster": "no deposit / free" },
+        { "keyword": "free spins no deposit canada", "cluster": "no deposit / free" },
+        { "keyword": "online casino ontario", "cluster": "money (province)" }
+    ]
+}

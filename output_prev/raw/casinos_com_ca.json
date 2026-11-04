@@ -1,0 +1,572 @@
+{
+  "url": "https://www.casinos.com/ca",
+  "google": {
+    "position": 1,
+    "url": "https://www.casinos.com/ca",
+    "domain": "casinos.com",
+    "title": "Best Online Casino Sites in Canada for Real Money 2026",
+    "snippet": "1. Vegas Now ; 2. Spinjo Read Spinjo Review ; 3. SlotsGem Read SlotsGem Review ; 4. SapphireBet ; 5. Casino Days Read Casino Days Review."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.96,
+    "brands": [
+      "Vegas Now",
+      "Spinjo",
+      "SlotsGem",
+      "SapphireBet",
+      "Casino Days",
+      "Betya",
+      "HellSpin",
+      "BluffBet",
+      "Beazt",
+      "NY Spins",
+      "Reload Casino",
+      "Lucky Ones",
+      "Jackpot City",
+      "PlayOJO",
+      "Dolfwin",
+      "LeoVegas",
+      "SlotRave",
+      "Lucky Nugget",
+      "Spin Galaxy",
+      "All Slots",
+      "Party Casino",
+      "Stake.com",
+      "Casumo",
+      "888 Casino",
+      "Dream Vegas",
+      "BetRepublic",
+      "SlotStars"
+    ],
+    "contact": "https://www.casinos.com/about-us/joss-wood",
+    "reason": "A substantial Canadian casino ranking site with affiliate links, hundreds of listings, and clear commercial placement potential."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Vegas Now",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spinjo",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "SlotsGem",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "SapphireBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Casino Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Betya",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "HellSpin",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "BluffBet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Beazt",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "NY Spins",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Reload Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Lucky Ones",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Jackpot City",
+      "found_in": "text"
+    },
+    {
+      "brand": "PlayOJO",
+      "found_in": "text"
+    },
+    {
+      "brand": "Dolfwin",
+      "found_in": "text"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "SlotRave",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Nugget",
+      "found_in": "text"
+    },
+    {
+      "brand": "Spin Galaxy",
+      "found_in": "text"
+    },
+    {
+      "brand": "All Slots",
+      "found_in": "text"
+    },
+    {
+      "brand": "Party Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Stake.com",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casumo",
+      "found_in": "text"
+    },
+    {
+      "brand": "888 Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Dream Vegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetRepublic",
+      "found_in": "text"
+    },
+    {
+      "brand": "SlotStars",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://www.casinos.com/about-us/joss-wood",
+      "type": "contact_page",
+      "found_on": "https://www.casinos.com/ca"
+    },
+    {
+      "value": "https://www.casinos.com/about-us",
+      "type": "contact_page",
+      "found_on": "https://www.casinos.com/ca"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=100,h=100/https://objects.kaxmedia.com/genesis/joss-wood.jpg?v=7faeefaf6d9dcaf838729162e3982e5d0ce0737f",
+      "alt": "Joss Wood"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=100,h=100/https://objects.kaxmedia.com/genesis/lee-g-william.jpeg?v=126b82e715d43730900f6c0989beff47420e8bf2",
+      "alt": "Lee James Gwilliam"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/211251/89b9f55435.svg?v=e6ea1b52512341cdf15fbc1b51006d238898ca85",
+      "alt": "current region"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=149,h=100/https://objects.kaxmedia.com/auto/o/221899/08f5c7282a.png?v=7cfb7f1fd9e6b213238d4e406eeb8c283c70eb5b",
+      "alt": "Vegas Now"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140220/e6d7a08437.svg?v=311aca87129ba2958a2c51aa7eee1bae3973dafa",
+      "alt": "Bank Transfer"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/150579/55035459fc.svg?v=a8ae127018ffaf0d30278a8937ec5b9446463cf6",
+      "alt": "mifinity"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/150580/f5f0056003.svg?v=328aecede60f1fb2a2e49639e2c57ed7b51fa2cf",
+      "alt": "Neosurf"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=149,h=100/https://objects.kaxmedia.com/auto/o/248796/806856e76e.png?v=7417b2c63de8e28748d2ffb0b95115a297689f07",
+      "alt": "Spinjo"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140220/e6d7a08437.svg?v=311aca87129ba2958a2c51aa7eee1bae3973dafa",
+      "alt": "Bank Transfer"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140261/099a321527.svg?v=3aa1c423196e65055cc0c1d2215fb1ce177180d5",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=149,h=100/https://objects.kaxmedia.com/auto/o/267817/e628e7a1cb.png?v=b58c673761c1e59b888feb980cae9cd616258945",
+      "alt": "SlotsGem"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140218/435ac7998d.svg?v=32671a63a011aa03480eb34e41907480a370470d",
+      "alt": "Apple Pay"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto/https://objects.kaxmedia.com/auto/o/140237/a226bd0e97.png?v=073b747355f6578ea5c81c37c3cc4c989ad567a9",
+      "alt": "Google Pay"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=100/https://objects.kaxmedia.com/auto/o/219984/a5fb6e6ad0.png?v=9efa3662c1fb5a4c7ff0aafb223c8b5f1d56816d",
+      "alt": "SapphireBet"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=65/https://objects.kaxmedia.com/auto/o/215321/85c3e57f1d.png?v=bd5d632d7e025aa5b0bc93fcb3eb6f9592e2e705",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140242/7f1468690d.svg?v=c1dd9a7ba11a173a07dc722ad1a06f0604f38619",
+      "alt": "Klarna"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140261/099a321527.svg?v=3aa1c423196e65055cc0c1d2215fb1ce177180d5",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=60/https://objects.kaxmedia.com/auto/o/287307/dd4dc64231.png?v=af1e1e5af44abf1c2f79bd2c141e700be6d9c6af",
+      "alt": "Betya"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/218263/55502ba155.svg?v=29d945456087633cc36c82b11e807d07b91f3a80",
+      "alt": "CASHlib"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/150580/f5f0056003.svg?v=328aecede60f1fb2a2e49639e2c57ed7b51fa2cf",
+      "alt": "Neosurf"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/226987/7d78a1e432.svg?v=c50b1158bfdbb9fe898f07cb27f9cd86717f9964",
+      "alt": "Flexepin"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/149930/9982ca8b3b.svg?v=95b1cbba9215f720134c4de1bbf80ba0d84b5f75",
+      "alt": "Cash2Code"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=100/https://objects.kaxmedia.com/auto/o/283724/9cb4c87077.png?v=9ce0f657d357924dcc83aa7264acb4247a7fc57a",
+      "alt": "HellSpin"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/150580/f5f0056003.svg?v=328aecede60f1fb2a2e49639e2c57ed7b51fa2cf",
+      "alt": "Neosurf"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140255/9a8fda5c5e.svg?v=f7e62120efa63828ac6b44c2e8d6b0782eb21be8",
+      "alt": "Paysafecard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/149930/9982ca8b3b.svg?v=95b1cbba9215f720134c4de1bbf80ba0d84b5f75",
+      "alt": "Cash2Code"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140247/a75862d553.svg?v=9a1da4d85c19494e601e2ae729aef666aa95e057",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=100/https://objects.kaxmedia.com/auto/o/213873/4a393dab10.png?v=010d88fc740907a0e6217a7fc3b1cfb48a3a8386",
+      "alt": "BluffBet"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140227/2432655b6c.svg?v=a04999a411cc452b675d6d8ebeb891c580382614",
+      "alt": "Crypto"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140244/ec55396e4e.svg?v=24fe65a4702d95463feafe79bdeeb76e7e71a936",
+      "alt": "Maestro"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/150579/55035459fc.svg?v=a8ae127018ffaf0d30278a8937ec5b9446463cf6",
+      "alt": "mifinity"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140247/a75862d553.svg?v=9a1da4d85c19494e601e2ae729aef666aa95e057",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210587/cc89ab8155.svg?v=f4c25f078ca7010e552fc7ab374f11306e7aa073",
+      "alt": "Jeton"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=60/https://objects.kaxmedia.com/auto/o/283767/a8e386ed5b.png?v=c4be8fd963e61886269c1feb754607000bf20244",
+      "alt": "Beazt"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140261/099a321527.svg?v=3aa1c423196e65055cc0c1d2215fb1ce177180d5",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=58/https://objects.kaxmedia.com/auto/o/215293/fa889e374f.png?v=82dfd1fb77c7dde00484065656db9de79a4ddcf0",
+      "alt": "NY Spins"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140261/099a321527.svg?v=3aa1c423196e65055cc0c1d2215fb1ce177180d5",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=65/https://objects.kaxmedia.com/auto/o/215360/4055cb3d7d.png?v=8f23d0851fa373a19779806794fe5b48cba2b54c",
+      "alt": "Reload Casino"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140262/cb7d11ed6e.svg?v=88c15a4e511402c61c65e5b21e5559a9aec570fc",
+      "alt": "SOFORT"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140261/099a321527.svg?v=3aa1c423196e65055cc0c1d2215fb1ce177180d5",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140258/ddcdc20aa4.svg?v=b796f7550e9b63fa4508b2723aa0f7b3ffa3f8d2",
+      "alt": "Rapid Transfer"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140255/9a8fda5c5e.svg?v=f7e62120efa63828ac6b44c2e8d6b0782eb21be8",
+      "alt": "Paysafecard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140247/a75862d553.svg?v=9a1da4d85c19494e601e2ae729aef666aa95e057",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=149,h=100/https://objects.kaxmedia.com/auto/o/212506/f71cd5ee2a.png?v=d22603234689ad24377230d71a17d30b62f7103d",
+      "alt": "Lucky Ones"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    }
+  ]
+}

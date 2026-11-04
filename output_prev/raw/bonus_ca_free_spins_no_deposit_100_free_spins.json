@@ -1,0 +1,658 @@
+{
+  "url": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins",
+  "google": {
+    "position": 7,
+    "url": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins",
+    "domain": "bonus.ca",
+    "title": "100 Free Spins No Deposit Canada (November 2026)",
+    "snippet": "Claim 100 free spins and win real money. All the listed real money free spins can be claimed in Canada. New deals added every month."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.95,
+    "brands": [
+      "Spinjo Casino",
+      "Casino Days Casino",
+      "BluffBet Casino",
+      "Sapphirebet Casino",
+      "SlotsGem Casino",
+      "20bet Casino",
+      "BitStarz Casino",
+      "Boo Casino",
+      "Captain Cooks",
+      "CasinoDays CA",
+      "Galactic Wins",
+      "GambleZen Casino",
+      "Golden Star Casino",
+      "iWild Casino",
+      "Jackpot City",
+      "Just Casino",
+      "Lucky Nugget",
+      "Realz Casino",
+      "Sky Crown Casino",
+      "Spinaway Casino",
+      "Spin Casino",
+      "Zodiac Casino",
+      "bet365",
+      "BetMGM",
+      "BetRivers",
+      "BetVictor",
+      "Daznbet",
+      "DraftKings",
+      "Hollywood",
+      "Lucky Days",
+      "Royal Vegas",
+      "Ruby Fortune",
+      "Stardust",
+      "TheScore",
+      "TonyBet",
+      "Amazon Slots",
+      "BallyBet",
+      "ComeOn!",
+      "PointsBet",
+      "LuckyLiner Casino",
+      "PartyCasino",
+      "GranaWin Casino",
+      "HellSpin Casino",
+      "ToonieBet Casino",
+      "iBet Casino",
+      "SkyCrown Casino",
+      "National Casino",
+      "Lucky Ones Casino",
+      "GoldenStar Casino",
+      "Spinational Casino",
+      "Sports Interaction Casino",
+      "Blazebet Casino",
+      "DragonSlots Casino",
+      "Grizzlys Quest Casino",
+      "Casino Classic Casino",
+      "24Casino",
+      "Spinrise Casino",
+      "Stay Casino",
+      "JooCasino",
+      "888Starz Casino",
+      "CASINOK Casino",
+      "Rooster Bet Casino",
+      "N1 Casino",
+      "Arcanebet",
+      "CasinoDays",
+      "Johnny Jackpot",
+      "Jonny Jackpot Casino",
+      "Captain Spins",
+      "CasiGo",
+      "Lucky Days Casino",
+      "888 Casino",
+      "LeoVegas",
+      "PlayGrand"
+    ],
+    "contact": "https://www.bonus.ca/about-us/contact-us",
+    "reason": "This Canadian casino affiliate publishes extensive rankings, bonus listings, and reviews featuring many casino brands."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Spinjo Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casino Days Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "BluffBet Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Sapphirebet Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "SlotsGem Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "20bet Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "BitStarz Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Boo Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Captain Cooks",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "CasinoDays CA",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Galactic Wins",
+      "found_in": "text"
+    },
+    {
+      "brand": "GambleZen Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Golden Star Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "iWild Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Jackpot City",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Just Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Nugget",
+      "found_in": "text"
+    },
+    {
+      "brand": "Realz Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sky Crown Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spinaway Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Spin Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Zodiac Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "bet365",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetMGM",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetRivers",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetVictor",
+      "found_in": "text"
+    },
+    {
+      "brand": "Daznbet",
+      "found_in": "text"
+    },
+    {
+      "brand": "DraftKings",
+      "found_in": "text"
+    },
+    {
+      "brand": "Hollywood",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Royal Vegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "Ruby Fortune",
+      "found_in": "text"
+    },
+    {
+      "brand": "Stardust",
+      "found_in": "text"
+    },
+    {
+      "brand": "TheScore",
+      "found_in": "text"
+    },
+    {
+      "brand": "TonyBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "Amazon Slots",
+      "found_in": "text"
+    },
+    {
+      "brand": "BallyBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "ComeOn!",
+      "found_in": "text"
+    },
+    {
+      "brand": "PointsBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "LuckyLiner Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "PartyCasino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "GranaWin Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "HellSpin Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "ToonieBet Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "iBet Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "SkyCrown Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "National Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Lucky Ones Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "GoldenStar Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spinational Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sports Interaction Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Blazebet Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "DragonSlots Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Grizzlys Quest Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Casino Classic Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "24Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spinrise Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Stay Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "JooCasino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888Starz Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "CASINOK Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Rooster Bet Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "N1 Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Arcanebet",
+      "found_in": "text"
+    },
+    {
+      "brand": "CasinoDays",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Johnny Jackpot",
+      "found_in": "text"
+    },
+    {
+      "brand": "Jonny Jackpot Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Captain Spins",
+      "found_in": "text"
+    },
+    {
+      "brand": "CasiGo",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Days Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "888 Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "PlayGrand",
+      "found_in": "image alt"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://www.bonus.ca/about-us/contact-us",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    },
+    {
+      "value": "https://www.bonus.ca/about-us/authors/jack-campion",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    },
+    {
+      "value": "https://www.bonus.ca/about-us/authors/luciano-passavanti",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    },
+    {
+      "value": "https://www.bonus.ca/about-us/editorial-policy",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    },
+    {
+      "value": "https://www.bonus.ca/about-us",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    },
+    {
+      "value": "https://www.bonus.ca/about-us/authors",
+      "type": "contact_page",
+      "found_on": "https://www.bonus.ca/free-spins-no-deposit/100-free-spins"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.bonus.ca/images/bf-logo-plain.svg",
+      "alt": "BonusFinder Canada"
+    },
+    {
+      "src": "https://www.bonus.ca/images/CA.png",
+      "alt": "en_CA"
+    },
+    {
+      "src": "https://www.bonus.ca/images/CA.png",
+      "alt": "flag"
+    },
+    {
+      "src": "https://www.bonus.ca/images/US.png",
+      "alt": "flag"
+    },
+    {
+      "src": "https://www.bonus.ca/images/GB.png",
+      "alt": "100 Free Spins No Deposit UK November 2026: Best Offers"
+    },
+    {
+      "src": "https://www.bonus.ca/images/bf-logo-plain.svg",
+      "alt": "BonusFinder Canada"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286301/a08dd4d719.png",
+      "alt": "LuckyLiner Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286294/77405bf7fc.png",
+      "alt": "GambleZen Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/285936/7fa310c577.png",
+      "alt": "PartyCasino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286352/155c707e7e.png",
+      "alt": "GranaWin Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286157/5753589a37.png",
+      "alt": "HellSpin Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286303/dbf89fdadb.png",
+      "alt": "ToonieBet Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286206/999a421baa.png",
+      "alt": "iBet Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286109/ea1e07d68f.png",
+      "alt": "iWild Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286261/a9fe64638a.png",
+      "alt": "SkyCrown Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286045/94aeea12ee.png",
+      "alt": "National Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286046/d31a096e29.png",
+      "alt": "20bet Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286253/3cfe6a7868.png",
+      "alt": "Lucky Ones Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286123/1e76c6f0da.png",
+      "alt": "GoldenStar Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/287392/17a0455646.png",
+      "alt": "Spinational Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286035/1bf9183e2e.png",
+      "alt": "Sports Interaction Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286402/e0a5106c4a.png",
+      "alt": "Realz Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286399/5b47d45c5b.png",
+      "alt": "Blazebet Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286302/5a200aa901.png",
+      "alt": "DragonSlots Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286342/fd82717780.png",
+      "alt": "Grizzlys Quest Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/285929/4acf0c1465.png",
+      "alt": "Jackpot City Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286143/09797fb5f7.png",
+      "alt": "Casino Classic Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286211/32b5b31022.png",
+      "alt": "Captain Cooks Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/287408/4a89a7c2b4.png",
+      "alt": "24Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286360/33ed352ef5.png",
+      "alt": "Spinrise Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286160/864fad0f84.png",
+      "alt": "Stay Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286073/c9e8ca5055.png",
+      "alt": "JooCasino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286322/b08cf990b3.png",
+      "alt": "888Starz Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286417/2bbafdb82d.png",
+      "alt": "CASINOK Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/288708/e90af252d4.png",
+      "alt": "Rooster Bet Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286017/d1e47cb798.png",
+      "alt": "N1 Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286016/4bb7719817.png",
+      "alt": "Casino Days Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286003/e402feed67.png",
+      "alt": "Jonny Jackpot Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/quality=85,format=auto/images/100-free-spins-no-deposit-canada.png",
+      "alt": "100 free spins no deposit canada"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/285993/93fd62a55a.png",
+      "alt": "Lucky Days Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/288420/ce2fb52525.png",
+      "alt": "888 Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286294/77405bf7fc.png",
+      "alt": "GambleZen Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/288414/8449c2827b.png",
+      "alt": "LeoVegas Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286137/5de3b87180.png",
+      "alt": "PlayGrand Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=329,quality=85,format=auto/images/bf_purple_chips.png",
+      "alt": "Bonusfinder"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=64,quality=85,format=auto/images/Jack_Campion_image.png",
+      "alt": "author"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=64,quality=85,format=auto/images/luciano-passavanti-bonusfinderVP.png",
+      "alt": "author"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286253/3cfe6a7868.png",
+      "alt": "Lucky Ones Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286333/f035655ec9.png",
+      "alt": "Rollero Casino"
+    },
+    {
+      "src": "https://www.bonus.ca/images/bf-logo-plain.svg",
+      "alt": "BonusFinder Canada"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=66,quality=85,format=auto/images/gamblingtherapy-1.png",
+      "alt": "gambling therapy"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=130,quality=85,format=auto/images/gambleaware-1.png",
+      "alt": "gamble aware"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=88,quality=85,format=auto/images/gamcare-1.png",
+      "alt": "gamcare"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=37,quality=85,format=auto/images/csc-2.png",
+      "alt": "csc"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=68,quality=85,format=auto/images/age_18-1.png",
+      "alt": "18+"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=61,quality=85,format=auto/images/ssl-1.png",
+      "alt": "ssl"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=97,quality=85,format=auto/images/ecogra-1.png",
+      "alt": "ecogra"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=39,quality=85,format=auto/images/rgc_36px.png",
+      "alt": "responsiblegambling.org"
+    },
+    {
+      "src": "https://www.bonus.ca/cdn-cgi/image/width=182,quality=85,format=auto/https://objects.kaxmedia.com/auto/o/286301/a08dd4d719.png",
+      "alt": "LuckyLiner Casino"
+    }
+  ]
+}

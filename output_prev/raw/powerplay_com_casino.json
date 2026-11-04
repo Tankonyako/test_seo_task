@@ -1,0 +1,23 @@
+{
+  "url": "https://www.powerplay.com/casino/",
+  "google": {
+    "position": 9,
+    "url": "https://www.powerplay.com/casino/",
+    "domain": "powerplay.com",
+    "title": "Online Casino - Play Casino Games, Claim up to CA$200 Bonus - PowerPlay.com",
+    "snippet": "Real money online casino games, licensed play in Canada with slots, blackjack, roulette, baccarat & poker. Up to CA$200 bonus. Join now."
+  },
+  "label": {
+    "site_type": "casino_operator",
+    "relevant": false,
+    "profit": 0,
+    "brands": [],
+    "contact": null,
+    "reason": "PowerPlay.com is an online casino where players can sign up and play."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [],
+  "contacts": [],
+  "images": []
+}

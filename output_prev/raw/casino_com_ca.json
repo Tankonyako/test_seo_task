@@ -1,0 +1,507 @@
+{
+  "url": "https://www.casino.com/ca/",
+  "google": {
+    "position": 5,
+    "url": "https://www.casino.com/ca/",
+    "domain": "casino.com",
+    "title": "Best Online Casinos in Canada (2026) | Fast Payouts, Big Bonuses",
+    "snippet": "Compare safe casinos in Canada Nov 2026: licensing, bonuses, payout speeds, and mobile apps. See our test logs and this month's updates."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.94,
+    "brands": [
+      "PowerPlay Casino",
+      "Casino Days",
+      "Tooniebet",
+      "Ruby Fortune",
+      "Spin Casino",
+      "Sia Casino",
+      "NorthStar Bets",
+      "Betway Casino",
+      "PlayOJO",
+      "LeoVegas",
+      "Royal Vegas",
+      "SpinAway Casino",
+      "JackpotCity",
+      "TitanPlay",
+      "Sports Interaction"
+    ],
+    "contact": "https://www.casino.com/about/",
+    "reason": "Its Canadian casino rankings and reviews feature many brands and disclose affiliate partnerships, making it a strong placement prospect."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "PowerPlay Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casino Days",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Tooniebet",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Ruby Fortune",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spin Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sia Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "NorthStar Bets",
+      "found_in": "text"
+    },
+    {
+      "brand": "Betway Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "PlayOJO",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Royal Vegas",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "SpinAway Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "JackpotCity",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "TitanPlay",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sports Interaction",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://www.casino.com/about/",
+      "type": "contact_page",
+      "found_on": "https://www.casino.com/ca/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.casino.com/ca/img/0/2026/01/01/NewLogo_432x123.svg",
+      "alt": "Casino.com"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/bottom-navigation-Home.svg",
+      "alt": "Homepage"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/bottom-navigation-Online-Casinos.svg",
+      "alt": "Online Casinos"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2024/08/07/bottom-navigation-Promotions.svg",
+      "alt": "Casino Bonuses"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=1918,height=854/0/2025/01/13/cc-ca-background-1918x854.webp",
+      "alt": "ca-background"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=192,height=192/0/2025/07/29/cc-ca-ziv-chen-author-192x192.webp",
+      "alt": "ziv chen"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/powerplay-white-560x160.svg",
+      "alt": "Power Play"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/07/02/casino-days-white-560x160.svg",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/muchbetter-white-39x32.svg",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/flexepin-white-39x32.svg",
+      "alt": "flexepin"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/bitcoin-white-39x32.svg",
+      "alt": "Bitcoin"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/05/29/tooniebet-white-560x160.svg",
+      "alt": "Tooniebet sport betting"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/muchbetter-white-39x32.svg",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/skrill-white-39x32.svg",
+      "alt": "Skrill"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paypal-white-39x32.svg",
+      "alt": "PayPal"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/ruby-fortune-white-560x160%20(1).svg",
+      "alt": "Ruby Fortune"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/spin-casino-white-560x160.svg",
+      "alt": "Spin Casino"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/apple-pay-white-39x32.svg",
+      "alt": "Apple-pay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/sports-interaction-white-560x160.svg",
+      "alt": "SIA"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/maestro-white-39x32.svg",
+      "alt": "maestro"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/bank-transfer-white-39x32.svg",
+      "alt": "Bank Transfer"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/apple-pay-white-39x32.svg",
+      "alt": "Apple-pay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/northstar-bets-white-560x160.svg",
+      "alt": "NorthStar"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/instadebit-white-39x32.svg",
+      "alt": "InstaDEBiT"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paypal-white-39x32.svg",
+      "alt": "PayPal"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/betway-white-560x160.svg",
+      "alt": "Betway"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/neosurf-white-39x32.svg",
+      "alt": "Neosurf"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/muchbetter-white-39x32.svg",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/02/09/ecopayz-white-39x32.svg",
+      "alt": "ecopayz"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/flexepin-white-39x32.svg",
+      "alt": "flexepin"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/instadebit-white-39x32.svg",
+      "alt": "InstaDEBiT"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/playojo-560x160.svg",
+      "alt": "PlayOJO"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/02/02/astropay-white-39x32.svg",
+      "alt": "AstroPay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/muchbetter-white-39x32.svg",
+      "alt": "MuchBetter"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/02/09/ecopayz-white-39x32.svg",
+      "alt": "ecopayz"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/leovegas-560x160.svg",
+      "alt": "LeoVegas"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/royal-vegas-white-560x160.svg",
+      "alt": "Royal Vegas"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/apple-pay-white-39x32.svg",
+      "alt": "Apple-pay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/spinaway-white-560x160.svg",
+      "alt": "Spinaway"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/02/25/jackpotcity-white-560x160.svg",
+      "alt": "JackpotCity"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/interac-39x32.svg",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/mastercard-white-39x32.svg",
+      "alt": "Mastercard"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/visa-white-39x32.svg",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/apple-pay-white-39x32.svg",
+      "alt": "Apple-pay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/08/paysafe-white-39x32.svg",
+      "alt": "paysafe"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/01/23/instadebit-white-39x32.svg",
+      "alt": "InstaDEBiT"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/178/2024/07/02/casino-days-white-560x160.svg",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2024/10/28/titan-play-white-560x160.svg",
+      "alt": "TitanPlay"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/0/2025/05/29/tooniebet-white-560x160.svg",
+      "alt": "Tooniebet sport betting"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=442,height=186/0/2024/10/06/sugar-rush-widget-pragmatic-play-1170x602.webp",
+      "alt": "sugar-rush"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=442,height=186/0/2024/10/06/sweet-bonanza-widget-pragmatic-play-1170x602.webp",
+      "alt": "sweet-bonanza"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=442,height=186/0/2024/10/06/gates-of-olympus-widget-pragmatic-play-1170x602.webp",
+      "alt": "gates-of-olympus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=1200,height=700/ca/img/0/2025/11/23/Gates-of-Olympus.webp",
+      "alt": "Gates of Olympus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=1200,height=700/ca/img/0/2025/11/23/Vikings-Go-Berzerk.webp",
+      "alt": "Vikings Go Berzerk"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=1200,height=700/ca/img/0/2025/11/23/Razor-Shark.webp",
+      "alt": "Razor Shark"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/welcome-bonus-black-80x80.svg",
+      "alt": "welcome-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/no-deposit-bonus-black-80x80.svg",
+      "alt": "no-deposit-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/deposit-match-white-black-80x80.svg",
+      "alt": "deposit-match-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/vip-loyalty-program-black-80x80.svg",
+      "alt": "vip-loyalty-program"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/free-spins-bonus-black-80x80.svg",
+      "alt": "free-spins-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/cashback-bonus-black-80x80.svg",
+      "alt": "cashback-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/reload-bonus-white-80x80.svg",
+      "alt": "reload-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/ca/img/0/2024/08/04/reload-bonus-white-80x80.svg",
+      "alt": "reload-bonus"
+    },
+    {
+      "src": "https://www.casino.com/ca/img/width=43,height=43/ca/img/0/2025/07/29/cc-ca-ziv-chen-author-192x192.webp",
+      "alt": "ziv chen"
+    }
+  ]
+}

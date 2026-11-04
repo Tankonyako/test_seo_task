@@ -1,0 +1,418 @@
+{
+  "url": "https://www.betiton.com/en-ca/casino/",
+  "google": {
+    "position": 8,
+    "url": "https://www.betiton.com/en-ca/casino/",
+    "domain": "betiton.com",
+    "title": "Best Online Casinos Canada November 2026 | Tested & Ranked",
+    "snippet": "The best online casinos Canada has right now are Glorion, WestAce and BetWest, and every online casino below has had its licence position ..."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.94,
+    "brands": [
+      "Glorion Casino",
+      "WestAce Casino",
+      "BetWest Casino",
+      "Lucky Ones Casino",
+      "Wintari Casino",
+      "Drakaris Casino",
+      "RoyalistPlay Casino",
+      "LegendPlay Casino",
+      "Festival Play Casino",
+      "Spinfin Casino",
+      "Sankra Casino",
+      "Beazt Casino",
+      "Espacejeux"
+    ],
+    "contact": "https://www.betiton.com/en-ca/contact-us/",
+    "reason": "A Canadian casino ranking and review site with many brands, an affiliate disclosure, and a contact page."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "Glorion Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "WestAce Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "BetWest Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Lucky Ones Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Wintari Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Drakaris Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "RoyalistPlay Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "LegendPlay Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Festival Play Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Spinfin Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sankra Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Beazt Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Espacejeux",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://www.betiton.com/en-ca/contact-us/",
+      "type": "contact_page",
+      "found_on": "https://www.betiton.com/en-ca/casino/"
+    },
+    {
+      "value": "https://www.betiton.com/about-us/",
+      "type": "contact_page",
+      "found_on": "https://www.betiton.com/en-ca/casino/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/06/betiton-wc26-logo.svg",
+      "alt": "Betiton.com"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/06/betiton-wc26-logo.svg",
+      "alt": "Betiton.com"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-CA.svg",
+      "alt": "en-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN.svg",
+      "alt": "en"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-GB.svg",
+      "alt": "en-gb"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-CA.svg",
+      "alt": "en-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-ON.svg",
+      "alt": "en-on"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-IE.svg",
+      "alt": "en-ie"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-NZ.svg",
+      "alt": "en-nz"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-US.svg",
+      "alt": "en-us"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-AB.svg",
+      "alt": "en-ab"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FR-CA.svg",
+      "alt": "fr-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FR-LU.svg",
+      "alt": "fr-lu"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/ES-CL.svg",
+      "alt": "es-cl"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/DE-AT.svg",
+      "alt": "de-at"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/DE-LU.svg",
+      "alt": "de-lu"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FI.svg",
+      "alt": "fi"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/NO.svg",
+      "alt": "no"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/IS.svg",
+      "alt": "is"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/LV.svg",
+      "alt": "lv"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-CA.svg",
+      "alt": "en-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN.svg",
+      "alt": "en"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-GB.svg",
+      "alt": "en-gb"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-CA.svg",
+      "alt": "en-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-ON.svg",
+      "alt": "en-on"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FR-CA.svg",
+      "alt": "fr-ca"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-IE.svg",
+      "alt": "en-ie"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/ES-CL.svg",
+      "alt": "es-cl"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-NZ.svg",
+      "alt": "en-nz"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/DE-AT.svg",
+      "alt": "de-at"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FI.svg",
+      "alt": "fi"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/NO.svg",
+      "alt": "no"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/DE-LU.svg",
+      "alt": "de-lu"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/FR-LU.svg",
+      "alt": "fr-lu"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-US.svg",
+      "alt": "en-us"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/IS.svg",
+      "alt": "is"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/LV.svg",
+      "alt": "lv"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/flags/EN-AB.svg",
+      "alt": "en-ab"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/06/photo_600x600-1-150x150.jpg",
+      "alt": "Francesco"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/03/simon-copperstone-1.avif",
+      "alt": "Simon Copperstone"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/a82226c798cf12087ed9f30b6aca74932518a265-600x240.webp?lw=400",
+      "alt": "Glorion Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/ad27f65562ada106ea7be86d099a586c5ebb93a0-600x240.webp?lw=400",
+      "alt": "WestAce Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/6cfe7b2e9f1019f91655a0e56b818489e00abb81-600x240.webp?lw=400",
+      "alt": "Festival Play Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/ed5bfdf572cecd175fa2d91b91d822df512633a5-600x240.webp?lw=400",
+      "alt": "Spinfin Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/b49bd05a1798fd5930604624ba39a5aa246d72e7-600x240.png?lw=400",
+      "alt": "Lucky Ones Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/ef082ca17eed9eb1acc47b63a7f09149b78289c8-600x240.webp?lw=400",
+      "alt": "Sankra Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/b8d60f9ce2e207d8563bd4a4f514b2f21fb9df0a-600x240.webp?lw=400",
+      "alt": "Drakaris Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/9bde10891748321927b2c65228b34c04f00320e6-600x240.webp?lw=400",
+      "alt": "Royalistplay Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/20b79d2847215516be2cbec2f8aa0c9d072a5cbf-600x240.webp?lw=400",
+      "alt": "Beazt Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/0cbaa345a0ac35fcc49c4ccedde7ee580358800a-600x240.png?lw=400",
+      "alt": "Wintari Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/08/glorion_ca_crypto_transactions-1.webp",
+      "alt": "Glorion Casino crypto transactions page"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/08/glorion_ca_crypto_transactions-1.webp",
+      "alt": "Glorion Casino crypto transactions page"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/a82226c798cf12087ed9f30b6aca74932518a265-600x240.webp?lw=400",
+      "alt": "Glorion Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/08/westace_ca_best_overall1-1.webp",
+      "alt": "WestAce Casino bonus overview page"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/08/westace_ca_best_overall1-1.webp",
+      "alt": "WestAce Casino bonus overview page"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/ad27f65562ada106ea7be86d099a586c5ebb93a0-600x240.webp?lw=400",
+      "alt": "WestAce Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/betwest_ca_crypto_cashier_desk.webp",
+      "alt": "BetWest Casino cashier list showing Bitcoin, Ethereum, Litecoin, Solana, Cardano and USDT on BEP20 and TRC20, each with its deposit range."
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/betwest_ca_crypto_cashier_desk.webp",
+      "alt": "BetWest Casino cashier list showing Bitcoin, Ethereum, Litecoin, Solana, Cardano and USDT on BEP20 and TRC20, each with its deposit range."
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/bbf20f1d931c426d875df8feb855822eff4f35d1-600x240.webp?lw=400",
+      "alt": "BetWest Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/luckyones_ca_interac_payouts_desk.webp",
+      "alt": "Beazt Casino lobby showing Sweet Bonanza 2500, Chaos Crew, Reactoonz and Crazy Time above Slots, Live casino and Roulette categories."
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/luckyones_ca_interac_payouts_desk.webp",
+      "alt": "Beazt Casino lobby showing Sweet Bonanza 2500, Chaos Crew, Reactoonz and Crazy Time above Slots, Live casino and Roulette categories."
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/b49bd05a1798fd5930604624ba39a5aa246d72e7-600x240.png?lw=400",
+      "alt": "Lucky Ones Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/beazt_ca_low_wagering_desk.webp",
+      "alt": "Beazt Casino lobby showing Sweet Bonanza 2500, Chaos Crew, Reactoonz and Crazy Time above Slots, Live casino and Roulette categories."
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/09/beazt_ca_low_wagering_desk.webp",
+      "alt": "Beazt Casino lobby showing Sweet Bonanza 2500, Chaos Crew, Reactoonz and Crazy Time above Slots, Live casino and Roulette categories."
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/20b79d2847215516be2cbec2f8aa0c9d072a5cbf-600x240.webp?lw=400",
+      "alt": "Beazt Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/0cbaa345a0ac35fcc49c4ccedde7ee580358800a-600x240.png?lw=400",
+      "alt": "Wintari Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/b8d60f9ce2e207d8563bd4a4f514b2f21fb9df0a-600x240.webp?lw=400",
+      "alt": "Drakaris Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/9bde10891748321927b2c65228b34c04f00320e6-600x240.webp?lw=400",
+      "alt": "Royalistplay Casino logo"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/05/Casino_sub-Our-Casino-Welcome-Bonus_desk.webp",
+      "alt": "How to claim bonus"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/02/Casino_sub-Online-Casino-Slots_mob-1.webp",
+      "alt": "slots"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/05/casino_main-CA-mob.webp",
+      "alt": "Best online casinos Canada"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/uploads/2026/06/betiton-wc26-logo.svg",
+      "alt": "Betiton.com"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/71836896199910ae7bc3821f0f0fb49f4c66d51b-41x40.svg",
+      "alt": "18+"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/5bd6592fbf727cd837093b98ea64e57a0a28a988-78x55.svg",
+      "alt": "Responsible Gambling"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/e5c775f0247a302180cf30b7bb1a089b7c3c0925-78x25.svg",
+      "alt": "Cam H"
+    },
+    {
+      "src": "https://www.betiton.com/content/cms-images/590f28e2ad78bbb33f273865a069aea2e1aa2da7-106x50.svg",
+      "alt": "Gambling Therapy"
+    },
+    {
+      "src": "https://images.dmca.com/Badges/dmca-badge-w150-5x1-08.png?ID=8968d9c6-0295-4642-babc-f4a08242e5db",
+      "alt": "DMCA.com Protection Status"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/like.svg",
+      "alt": "Like icon"
+    },
+    {
+      "src": "https://www.betiton.com/wp-content/themes/betiton-child/images/icons/close.svg",
+      "alt": "Close icon"
+    }
+  ]
+}

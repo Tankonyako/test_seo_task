@@ -1,0 +1,30 @@
+{
+  "url": "https://betanews.com/ca/fast-payout-casino/",
+  "google": {
+    "position": 5,
+    "url": "https://betanews.com/ca/fast-payout-casino/",
+    "domain": "betanews.com",
+    "title": "Fast Payout Casinos Canada 2026: Same-Day Withdrawals Tested",
+    "snippet": "Spin Casino is the best instant withdrawal casino in Canada for InstaDebit users, with payouts landing within 45 minutes once approved, and Wild ..."
+  },
+  "label": {
+    "site_type": "news_media",
+    "relevant": true,
+    "profit": 0.2,
+    "brands": [
+      "Spin Casino"
+    ],
+    "contact": null,
+    "reason": "The page is a casino ranking on a media site, but access was blocked and no placement contact is available."
+  },
+  "source": "snippet",
+  "fetch_error": "HTTP 403",
+  "brands": [
+    {
+      "brand": "Spin Casino",
+      "found_in": "google snippet"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}

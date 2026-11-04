@@ -1,0 +1,355 @@
+{
+  "url": "https://www.casinos.com/ca/interac",
+  "google": {
+    "position": 7,
+    "url": "https://www.casinos.com/ca/interac",
+    "domain": "casinos.com",
+    "title": "Best Interac Casino Sites in Canada 2026",
+    "snippet": "Compare Interac casinos in Canada and casinos that accept Interac. How e-Transfer deposits and withdrawals work, limits, fees, payout times ..."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.95,
+    "brands": [
+      "888",
+      "Zodiac Casino",
+      "Sports Interaction",
+      "Party",
+      "Casino Days"
+    ],
+    "contact": "https://www.casinos.com/about-us/shane-donnelly",
+    "reason": "This established Canadian casino comparison site ranks many brands and discloses affiliate links, making it a strong placement partner."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "888",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Zodiac Casino",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Sports Interaction",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Party",
+      "found_in": "image alt"
+    },
+    {
+      "brand": "Casino Days",
+      "found_in": "image alt"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "https://www.casinos.com/about-us/shane-donnelly",
+      "type": "contact_page",
+      "found_on": "https://www.casinos.com/ca/interac"
+    },
+    {
+      "value": "https://www.casinos.com/about-us",
+      "type": "contact_page",
+      "found_on": "https://www.casinos.com/ca/interac"
+    },
+    {
+      "value": "https://www.casinos.com/about-us/joss-wood",
+      "type": "contact_page",
+      "found_on": "https://www.casinos.com/about-us/joss-wood"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=100,h=100/https://objects.kaxmedia.com/genesis/shane-donnelly-profile-picture.png?v=b4d228fc6c18268bddf48424a07acc454a92591e",
+      "alt": "Shane Donnelly"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=100,h=100/https://objects.kaxmedia.com/genesis/lee-g-william.jpeg?v=126b82e715d43730900f6c0989beff47420e8bf2",
+      "alt": "Lee James Gwilliam"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/211251/89b9f55435.svg?v=e6ea1b52512341cdf15fbc1b51006d238898ca85",
+      "alt": "current region"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=65/https://objects.kaxmedia.com/auto/o/215240/cdca9aee5b.png?v=fd95d3a768b1fe4ac39c4acca89f997933e773d6",
+      "alt": "888"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140255/9a8fda5c5e.svg?v=f7e62120efa63828ac6b44c2e8d6b0782eb21be8",
+      "alt": "Paysafecard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=149,h=100/https://objects.kaxmedia.com/auto/o/203515/8f1dacc94c.png?v=392c0cbbee0b0c1f707c079859b534c1182b5d68",
+      "alt": "Zodiac Casino"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto/https://objects.kaxmedia.com/auto/o/140237/a226bd0e97.png?v=073b747355f6578ea5c81c37c3cc4c989ad567a9",
+      "alt": "Google Pay"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=60/https://objects.kaxmedia.com/auto/o/285878/393c0690df.png?v=c036ca4d9e6a8f2a531c5eef589bb6d1c3926f71",
+      "alt": "Sports Interaction"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140233/db3172a1f4.svg?v=4f94c2f763844b099f0f45d7ebac503dfb83a58d",
+      "alt": "Payz"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=71/https://objects.kaxmedia.com/auto/o/217120/3e84ed3e98.png?v=ad39a58a958222dfe05cc7bb946ac2bb7a6de323",
+      "alt": "Party"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140268/15f9d879d2.svg?v=911e65f86979a7a92c512674e795e565a9977c4b",
+      "alt": "Visa Electron"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140244/ec55396e4e.svg?v=24fe65a4702d95463feafe79bdeeb76e7e71a936",
+      "alt": "Maestro"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/209898/50b33a7cce.svg?v=2251aca9a456274471b8e2a0e2ea467d31636491",
+      "alt": "icon-yes"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=150,h=65/https://objects.kaxmedia.com/auto/o/215321/85c3e57f1d.png?v=bd5d632d7e025aa5b0bc93fcb3eb6f9592e2e705",
+      "alt": "Casino Days"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=50,h=48/https://objects.kaxmedia.com/auto/o/170246/01b8c3a1da.png?v=3b5c45d9ade54d245b41dfe747402adbc179e381",
+      "alt": "Sparkle"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140240/c15488c4b2.svg?v=b3871c9c80a3cfb8e75ab44310dc450444ba63c4",
+      "alt": "Interac"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg?v=b5acee452bd30e6fe2cd7a0354463b1f8a3bcd97",
+      "alt": "Visa"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg?v=099ea5a955710cb39221e7bfb384ba39db46b23b",
+      "alt": "MasterCard"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/140248/55d67c7df6.svg?v=2053bb3e30590bfc8860d6e4b90987eedd6aec10",
+      "alt": "Neteller"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/210781/c9f92d2faf.svg?v=e39d51757fad840b4634b70e66c8367d2b27b849",
+      "alt": "icon-no"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=80,h=80/https://objects.kaxmedia.com/genesis/shane-donnelly-profile-picture.png?v=b4d228fc6c18268bddf48424a07acc454a92591e",
+      "alt": "Shane Donnelly"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,fit=contain,g=auto,w=100,h=100/https://objects.kaxmedia.com/genesis/shane-donnelly-profile-picture.png?v=b4d228fc6c18268bddf48424a07acc454a92591e",
+      "alt": "Shane Donnelly"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/191145/d7a9ede8a3.svg?v=5ef0de8ae588087b8b62f2d420865df27b43e8a7",
+      "alt": "Senior Editor"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=448,h=252/https://objects.kaxmedia.com/auto/o/194010/a32c56109c.png?v=2b795d5c34edf023402a2f5bbdfd0ce4e4114d7d",
+      "alt": "Get in touch"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=448,h=252/https://objects.kaxmedia.com/auto/o/194010/a32c56109c.png?v=2b795d5c34edf023402a2f5bbdfd0ce4e4114d7d",
+      "alt": "Get in touch"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto/https://objects.kaxmedia.com/auto/o/190158/d3f9fdf8c3.png?v=ad5034ba7188ea31bb2b9bb788ea3210f6dbd87b",
+      "alt": "faqs"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto/https://objects.kaxmedia.com/auto/o/209826/6e414c8412.webp?v=f6dd4251d57a8fd9f97b778b2dfd3949783ace59",
+      "alt": "Casinos.com Email Signup Coins"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto/https://objects.kaxmedia.com/auto/o/209826/6e414c8412.webp?v=f6dd4251d57a8fd9f97b778b2dfd3949783ace59",
+      "alt": "Casinos.com Email Signup Coins"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/190145/25a143be98.svg?v=ed7563a88e6e2a3564b85d530bd0b6e89185b2ab",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/190144/2986702a8a.svg?v=c500cf5862343447df2c93f39dfdd7065b84f4db",
+      "alt": "Instagram"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/190149/11fa716a4e.svg?v=e442933bb870a07dabfa786e956aeaccec5cd584",
+      "alt": "X"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/190143/e2c4d7056e.svg?v=b7d56656d5bb8a7b9a02f33742e1f06228fd6f0c",
+      "alt": "Facebook"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/208139/c93bccb375.svg?v=132a71b11d2379a79c73d69b0ba96e0851d819e8",
+      "alt": "Global country flag icon"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/31172/289a7c5659.svg?v=a94eb110df15c12ae2eec29b0fb932bb759d40f7",
+      "alt": "Ireland country flag icon"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/31184/7a0dc044a9.svg?v=59498b26b69f157292b4c059eb2bd31d49285065",
+      "alt": "Italia country flag icon"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/31177/3dabbb82ad.svg?v=2d7f8fff43e0c5da520fee6f7ae3f4c5268fbd00",
+      "alt": "New Zealand country flag icon"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/31168/01797ff082.svg?v=0bdb1dd7667d45bd9a0cb101ff933f125a0d1a11",
+      "alt": "United Kingdom country flag icon"
+    },
+    {
+      "src": "https://objects.kaxmedia.com/auto/o/31206/1d224877ce.svg?v=c1d83e298a751cc0f3a224a3501055e32842891f",
+      "alt": "United States country flag icon"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=160,h=70/https://objects.kaxmedia.com/auto/o/285405/f359b33e0e.webp?v=1936a866d912bfc46dff66ce4985c37ed15f596a",
+      "alt": "Grandstand"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=132,h=32/https://objects.kaxmedia.com/auto/o/176439/d6c6c6b3c4.png?v=2561d9b6560fa370ea01cdc2af557211131ef6f9",
+      "alt": "Connex Ontario"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=246,h=32/https://objects.kaxmedia.com/auto/o/163249/6e9fd86a16.png?v=bb80d0be8bf48828922d5f6a6adbc97845e273db",
+      "alt": "BeGambleAware"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=132,h=32/https://objects.kaxmedia.com/auto/o/60817/579494955b.png?v=4ce17763f2daadefe85a9edffb957aa92ae05565",
+      "alt": "+19"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=32,h=32/https://objects.kaxmedia.com/auto/o/7773/cacb70b907.png?v=f5e7c8995e5de2eefff4dbae719aac3a08364b45",
+      "alt": "+18"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=139,h=64/https://objects.kaxmedia.com/auto/o/163253/cc0900ad1f.png?v=4a29647b480288b9aa0c0aab1273278eca564c7f",
+      "alt": "eCogra"
+    },
+    {
+      "src": "https://www.casinos.com/cdn-cgi/image/f=webp,q=86,g=auto,w=82,h=32/https://objects.kaxmedia.com/auto/o/7766/80d4af5620.png?v=da17238ff33396bdeca4810304a9570539fe5c4a",
+      "alt": "GPWA Approved Portal"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "url": "https://igamingontario.ca/en/player/regulated-igaming-market",
+  "google": {
+    "position": 8,
+    "url": "https://igamingontario.ca/en/player/regulated-igaming-market",
+    "domain": "igamingontario.ca",
+    "title": "Regulated iGaming Market",
+    "snippet": "Use this directory of all igaming sites offered by regulated Operators contracted by iGaming Ontario*. Must be physically located in Ontario to play."
+  },
+  "label": {
+    "site_type": "regulator_government",
+    "relevant": false,
+    "profit": 0,
+    "brands": [
+      "888 Casino",
+      "888 Poker",
+      "888 Sport",
+      "Amazon Slots",
+      "Bally Bet",
+      "Bet365",
+      "Bet99",
+      "Betano",
+      "Betinia",
+      "BetMGM Casino",
+      "BetMGM Poker",
+      "BetMGM Sportsbook",
+      "BetNova",
+      "BetRivers",
+      "Betty",
+      "BetUnited",
+      "BetVictor",
+      "Betway",
+      "Bwin",
+      "Caesars",
+      "Captain Cooks Casino",
+      "Casino Classic",
+      "Casino Days",
+      "Casino Time",
+      "Comeon!",
+      "DAZN Bet",
+      "Delta Casino",
+      "DraftKings Casino",
+      "DraftKings Sportsbook",
+      "Fanatics Casino",
+      "FanDuel Casino",
+      "FanDuel Poker",
+      "FanDuel Sportsbook",
+      "Fever Slots",
+      "FireVegas",
+      "GGPoker",
+      "Golden Nugget Casino",
+      "Golden Tiger",
+      "Grand Mondial",
+      "Hard Rock Bet",
+      "High Flyer Casino",
+      "Hollywood Casino",
+      "Horseshoe Online Casino",
+      "Jackpot City",
+      "Knightslots",
+      "LeoVegas",
+      "Lucky Casino",
+      "Lucky Days",
+      "Luxury Casino",
+      "Maverick Games",
+      "Miki",
+      "Monopoly",
+      "Mr.Vegas",
+      "Neo.bet",
+      "NorthStar Bets",
+      "PartyCasino",
+      "PartyPoker",
+      "Partysports",
+      "Pinnacle",
+      "Play Fallsview",
+      "PlayOJO",
+      "PointsBet",
+      "Power Play",
+      "Royal Panda",
+      "Royal Vegas",
+      "Ruby Fortune",
+      "SlotsMagic",
+      "Spin Away",
+      "Spin Casino",
+      "SpinGenie",
+      "Sports Interaction",
+      "Stardust Casino",
+      "STX",
+      "Swiper",
+      "TheScore Bet",
+      "TheScore Casino",
+      "Titan Play",
+      "TonyBet",
+      "ToonieBet",
+      "Toppz",
+      "Videoslots",
+      "Wheel of Fortune",
+      "Yukon Gold Casino",
+      "Zodiac Casino",
+      "OLG.ca"
+    ],
+    "contact": "media@igamingontario.ca",
+    "reason": "iGaming Ontario is a provincial market authority, not a site that sells casino placements."
+  },
+  "source": "page",
+  "fetch_error": null,
+  "brands": [
+    {
+      "brand": "888 Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "888 Poker",
+      "found_in": "text"
+    },
+    {
+      "brand": "888 Sport",
+      "found_in": "text"
+    },
+    {
+      "brand": "Amazon Slots",
+      "found_in": "text"
+    },
+    {
+      "brand": "Bally Bet",
+      "found_in": "text"
+    },
+    {
+      "brand": "Bet365",
+      "found_in": "text"
+    },
+    {
+      "brand": "Bet99",
+      "found_in": "text"
+    },
+    {
+      "brand": "Betano",
+      "found_in": "text"
+    },
+    {
+      "brand": "Betinia",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetMGM Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetMGM Poker",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetMGM Sportsbook",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetNova",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetRivers",
+      "found_in": "text"
+    },
+    {
+      "brand": "Betty",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetUnited",
+      "found_in": "text"
+    },
+    {
+      "brand": "BetVictor",
+      "found_in": "text"
+    },
+    {
+      "brand": "Betway",
+      "found_in": "text"
+    },
+    {
+      "brand": "Bwin",
+      "found_in": "text"
+    },
+    {
+      "brand": "Caesars",
+      "found_in": "text"
+    },
+    {
+      "brand": "Captain Cooks Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casino Classic",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casino Days",
+      "found_in": "text"
+    },
+    {
+      "brand": "Casino Time",
+      "found_in": "text"
+    },
+    {
+      "brand": "Comeon!",
+      "found_in": "text"
+    },
+    {
+      "brand": "DAZN Bet",
+      "found_in": "text"
+    },
+    {
+      "brand": "Delta Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "DraftKings Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "DraftKings Sportsbook",
+      "found_in": "text"
+    },
+    {
+      "brand": "Fanatics Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "FanDuel Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "FanDuel Poker",
+      "found_in": "text"
+    },
+    {
+      "brand": "FanDuel Sportsbook",
+      "found_in": "text"
+    },
+    {
+      "brand": "Fever Slots",
+      "found_in": "text"
+    },
+    {
+      "brand": "FireVegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "GGPoker",
+      "found_in": "text"
+    },
+    {
+      "brand": "Golden Nugget Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Golden Tiger",
+      "found_in": "text"
+    },
+    {
+      "brand": "Grand Mondial",
+      "found_in": "text"
+    },
+    {
+      "brand": "Hard Rock Bet",
+      "found_in": "text"
+    },
+    {
+      "brand": "High Flyer Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Hollywood Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Horseshoe Online Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Jackpot City",
+      "found_in": "text"
+    },
+    {
+      "brand": "Knightslots",
+      "found_in": "text"
+    },
+    {
+      "brand": "LeoVegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Lucky Days",
+      "found_in": "text"
+    },
+    {
+      "brand": "Luxury Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Maverick Games",
+      "found_in": "text"
+    },
+    {
+      "brand": "Miki",
+      "found_in": "text"
+    },
+    {
+      "brand": "Monopoly",
+      "found_in": "text"
+    },
+    {
+      "brand": "Mr.Vegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "Neo.bet",
+      "found_in": "text"
+    },
+    {
+      "brand": "NorthStar Bets",
+      "found_in": "text"
+    },
+    {
+      "brand": "PartyCasino",
+      "found_in": "text"
+    },
+    {
+      "brand": "PartyPoker",
+      "found_in": "text"
+    },
+    {
+      "brand": "Partysports",
+      "found_in": "text"
+    },
+    {
+      "brand": "Pinnacle",
+      "found_in": "text"
+    },
+    {
+      "brand": "Play Fallsview",
+      "found_in": "text"
+    },
+    {
+      "brand": "PlayOJO",
+      "found_in": "text"
+    },
+    {
+      "brand": "PointsBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "Power Play",
+      "found_in": "text"
+    },
+    {
+      "brand": "Royal Panda",
+      "found_in": "text"
+    },
+    {
+      "brand": "Royal Vegas",
+      "found_in": "text"
+    },
+    {
+      "brand": "Ruby Fortune",
+      "found_in": "text"
+    },
+    {
+      "brand": "SlotsMagic",
+      "found_in": "text"
+    },
+    {
+      "brand": "Spin Away",
+      "found_in": "text"
+    },
+    {
+      "brand": "Spin Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "SpinGenie",
+      "found_in": "text"
+    },
+    {
+      "brand": "Sports Interaction",
+      "found_in": "text"
+    },
+    {
+      "brand": "Stardust Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "STX",
+      "found_in": "text"
+    },
+    {
+      "brand": "Swiper",
+      "found_in": "text"
+    },
+    {
+      "brand": "TheScore Bet",
+      "found_in": "text"
+    },
+    {
+      "brand": "TheScore Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Titan Play",
+      "found_in": "text"
+    },
+    {
+      "brand": "TonyBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "ToonieBet",
+      "found_in": "text"
+    },
+    {
+      "brand": "Toppz",
+      "found_in": "text"
+    },
+    {
+      "brand": "Videoslots",
+      "found_in": "text"
+    },
+    {
+      "brand": "Wheel of Fortune",
+      "found_in": "text"
+    },
+    {
+      "brand": "Yukon Gold Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "Zodiac Casino",
+      "found_in": "text"
+    },
+    {
+      "brand": "OLG.ca",
+      "found_in": "text"
+    }
+  ],
+  "contacts": [
+    {
+      "value": "media@igamingontario.ca",
+      "type": "email",
+      "found_on": "http://www.igamingontario.ca/en/contact-us"
+    },
+    {
+      "value": "igaming@igamingontario.ca",
+      "type": "email",
+      "found_on": "http://www.igamingontario.ca/en/contact-us"
+    },
+    {
+      "value": "https://igamingontario.ca/en/contact-us",
+      "type": "contact_page",
+      "found_on": "https://igamingontario.ca/en/player/regulated-igaming-market"
+    },
+    {
+      "value": "http://www.igamingontario.ca/en/contact-us",
+      "type": "contact_page",
+      "found_on": "http://www.igamingontario.ca/en/contact-us"
+    },
+    {
+      "value": "https://igamingontario.ca/en/about-igaming-ontario",
+      "type": "contact_page",
+      "found_on": "https://igamingontario.ca/en/player/regulated-igaming-market"
+    },
+    {
+      "value": "http://www.igamingontario.ca/en/about-igaming-ontario",
+      "type": "contact_page",
+      "found_on": "http://www.igamingontario.ca/en/about-igaming-ontario"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://igamingontario.ca/themes/custom/de_theme/logo-en.svg",
+      "alt": "Home"
+    },
+    {
+      "src": "https://igamingontario.ca/themes/custom/de_theme/src/img/print/logo--print-en.png",
+      "alt": "Print logo"
+    },
+    {
+      "src": "https://igamingontario.ca/sites/default/files/images/instagram-icon-colour_0.png",
+      "alt": "Instagram"
+    },
+    {
+      "src": "https://igamingontario.ca/sites/default/files/images/twitter-x-logo-white-35x35px.png",
+      "alt": "Twitter"
+    },
+    {
+      "src": "https://igamingontario.ca/sites/default/files/images/linkedin-icon-35x35.png",
+      "alt": "LinkedIn"
+    },
+    {
+      "src": "https://igamingontario.ca/sites/default/files/images/facebook_icon_35x35.png",
+      "alt": "Facebook"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://playwisecanada.com/best-casinos-canada/",
+  "google": {
+    "position": 9,
+    "url": "https://playwisecanada.com/best-casinos-canada/",
+    "domain": "playwisecanada.com",
+    "title": "Best Casinos Canada 2026 — Reviewed & Ranked | PlayWise",
+    "snippet": "Mostbet earns its #1 ranking as the best overall online casino for Canadian players in 2026. With over 200 live dealer tables powered by ..."
+  },
+  "label": {
+    "site_type": "affiliate_review",
+    "relevant": true,
+    "profit": 0.35,
+    "brands": [
+      "Mostbet"
+    ],
+    "contact": null,
+    "reason": "The URL and snippet indicate a Canadian casino ranking page, but the page could not be verified."
+  },
+  "source": "snippet",
+  "fetch_error": "fetch failed",
+  "brands": [
+    {
+      "brand": "Mostbet",
+      "found_in": "google snippet"
+    }
+  ],
+  "contacts": [],
+  "images": []
+}
